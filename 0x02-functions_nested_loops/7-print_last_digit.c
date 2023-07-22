@@ -3,7 +3,7 @@
 /**
   *print_last_digit - entry point
   *@m: character variable
-  *Return: Always 0 (succeess)
+  *Return: Always 0 (success)
   */
 
 int print_last_digit(int m)
